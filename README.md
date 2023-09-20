@@ -14,4 +14,4 @@ Sou Desenvolvedor e Professor há mais de 10 anos, apaixonado por tecnolgia e po
 ## 📫 Entre em contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jamiltondamasceno/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/codansoficial) 
-[![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)]([https://www.instagram.com/codansoficial](https://www.udemy.com/user/jamiltondamasceno)) 
+[![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/user/jamiltondamasceno)
