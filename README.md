@@ -1,5 +1,5 @@
 # Olá, sou o Jamilton Damasceno 👨‍💻
-Sou Desenvolvedor e Professor há mais de 10 anos, apaixonado por tecnolgia e por transmitir conhecimentos.
+Sou Desenvolvedor e Professor há mais de 10 anos, apaixonado por tecnologia e por transmitir conhecimentos.
 
 ## ⚡ Habilidades
 - Web
